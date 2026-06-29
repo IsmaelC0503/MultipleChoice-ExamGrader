@@ -10,11 +10,6 @@ computer vision techniques. The system detects answer bubbles on the exam sheet
 using the Hough Circle Transform and determines which option was marked through 
 pixel moment counting operations.
 
-### Key Features
-- Perspective correction using corner markers
-- Bubble detection via Hough Circle Transform
-- Marked answer identification using pixel counting (moments)
-- Automatic scoring for 80-question answer sheets
 
 ## 👥 Team Members
 
