@@ -34,10 +34,4 @@ Universidad Nacional de Piura
 - Hough Circle Transform
 - Pixel Moments
 
-## 📁 Repository Structure
-```
-MultipleChoice-ExamGrader/
-│
-├── ExamGrader.ipynb       # Main notebook
-└── README.md
-```
+
