@@ -16,7 +16,7 @@ y determina cuál opción fue marcada mediante operaciones de conteo de píxeles
 - Corrección de perspectiva usando marcadores en las esquinas
 - Detección de burbujas mediante Transformada de Hough
 - Identificación de respuestas marcadas usando conteo de píxeles (momentos)
-- Calificación automática para hojas de 80 preguntas
+- Calificación automática 
 
 ## 👥 Integrantes
 
