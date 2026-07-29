@@ -1,0 +1,8 @@
+resultados/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.vscode/
+.idea/
+Thumbs.db
