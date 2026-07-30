@@ -138,9 +138,9 @@ El sistema se puede usar de dos formas, ambas sobre el mismo código:
 
 ![Pasos numerados](docs/captura_pasos.jpg)
 
-![Resultados](docs/captura_resultados.png)
+![Revisión hoja por hoja](docs/captura_revision.png)
 
-![Revisión hoja por hoja](docs/captura_revision.jpg)
+![Diagnostico](docs/captura_diagnostico.jpg)
 
 ---
 
