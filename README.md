@@ -140,7 +140,7 @@ El sistema se puede usar de dos formas, ambas sobre el mismo código:
 
 ![Revisión hoja por hoja](docs/captura_revision.jpg)
 
-![Diagnostico](docs/captura_diagnostico.jpg)
+![Diagnostico](docs/captura_diagnostico_.jpg)
 
 ---
 
