@@ -381,9 +381,4 @@ medir el llenado de formas cerradas.
 
 ---
 
-## Nota sobre privacidad
 
-La carpeta `mis_datos/` está excluida en el `.gitignore` porque ahí van los
-exámenes reales. No subimos al repositorio fotos de exámenes ni notas de
-compañeros: los nombres y códigos que aparecen en `dataset/` son inventados y
-las hojas las rellenamos nosotros.
